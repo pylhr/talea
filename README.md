@@ -11,9 +11,6 @@
 2. [Tech Stack](#tech-stack)
 3. [Features](#features)
 4. [Quick Start](#quick-start)
-5. [Assets & Code](#snippets)
-6. [Links](#links)
-7. [More](#more)
 
 ## Introduction
 
@@ -21,7 +18,8 @@ Talea, built with Next.js and TypeScript, is a video chat application. It allows
 
 ## Demo
 
-Here is the Talea working
+Here is the Talea working:
+
 ## Tech Stack
 
 - Next.js
@@ -53,7 +51,7 @@ gh repo clone pylhr/talea
 cd talea
 ```
 
-## Installation
+**Installation**
 
 Install the project dependencies using npm:
 
