@@ -47,6 +47,7 @@ Ensure you have Git, Node.js, and npm installed on your machine.
 ```bash
 gh repo clone pylhr/talea
 cd talea
+```
 
 ##Installation
 
