@@ -19,10 +19,10 @@ Talea, built with Next.js and TypeScript, is a video chat application. It allows
 ## Demo
 
 Here is the Talea working:
-<video src="./public/demo-talea.mkv" controls width="100%">
-  
-  Your browser does not support the video tag.
-</video>
+<figure class="video_container">
+  <iframe src="./public/demo-talea.mkv" frameborder="0" allowfullscreen="true"> 
+</iframe>
+</figure>
 
 
 ## Tech Stack
