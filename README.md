@@ -19,6 +19,7 @@ Talea, built with Next.js and TypeScript, is a video chat application. It allows
 ## Demo
 
 Here is the Talea working:
+(wait initial 3 seconds.)
 ![](https://github.com/pylhr/talea/blob/master/public/demo-talea.gif)
 
 
